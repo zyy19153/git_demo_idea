@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git from idea");
         System.out.println("hello git once again from idea");
+        System.out.println("hello git from hot-fix");
     }
 }
